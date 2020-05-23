@@ -1,0 +1,17 @@
+title: Axistroid
+description: >- # this means to ignore newlines until "baseurl:"
+  Notes on software engineering
+baseurl: ""
+url: ""
+twitter_username: axistroid
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-167492313-1
+    anonymizeIp: true
